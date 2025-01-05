@@ -1,3 +1,6 @@
 [submodule "oztest01"]
 	path = oztest01
 	url = https://github.com/LucasKim4321/oztest01.git
+[submodule "git_test"]
+	path = git_test
+	url = https://github.com/LucasKim4321/git_test.git
