@@ -1,0 +1,3 @@
+[submodule "oztest01"]
+	path = oztest01
+	url = https://github.com/LucasKim4321/oztest01.git
